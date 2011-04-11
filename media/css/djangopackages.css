@@ -82,3 +82,6 @@ td.usage-container .usage-button {float: right}
 .pagination {
   margin-bottom: 15px;
 }
+
+/* Grid */
+body.grid #body {padding-right: 30px;}
